@@ -18,7 +18,7 @@
 :mortar_board: PocketMine-MP & Discord Py</p>
 
 <h2 align="center">Social Links</p>
-Discord : [ت⃟⃤ Shadow 🙃 | ψ#0817](https://discord.bio/ShadowMikado)</p>
+Discord : [ت⃟⃤ Shadow 🙃 | ψ#0817]</p>
 
 </p>
 
