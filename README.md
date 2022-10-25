@@ -1,3 +1,17 @@
+```php
+
+namespace ShadowMikado;
+
+use ShadowMikado\Name;
+
+public function ShadowMikado(User $user) {
+  $name = $user->getName();
+  if($name == "ShadowMikado") {
+    return true;
+  }
+  return false;
+}
+```
 <p align="center">
  
 </p align="center">
@@ -18,24 +32,10 @@
 :mortar_board: PocketMine-MP & Discord Py</p>
 
 <h2 align="center">Social Links</p>
-Discord : [ت⃟⃤ Shadow 🙃 | ψ#0817]</p>
-
+Discord : [ت⃟⃤ Shadow 🙃 | ψ#0817]
 </p>
 
-```php
-
-namespace ShadowMikado;
-
-use ShadowMikado\Name;
-
-public function ShadowMikado(User $user) {
-  $name = $user->getName();
-  if($name == "ShadowMikado") {
-    return true;
-  }
-  return false;
-}
-```
+</p>
 
 <h2 align="center">Tools & Technology</p>
 
