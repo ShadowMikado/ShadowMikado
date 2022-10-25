@@ -1,17 +1,4 @@
-```php
 
-namespace ShadowMikado;
-
-use ShadowMikado\Name;
-
-public function ShadowMikado(User $user) {
-  $name = $user->getName();
-  if($name == "ShadowMikado") {
-    return true;
-  }
-  return false;
-}
-```
 <p align="center">
  
 </p align="center">
