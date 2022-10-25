@@ -22,6 +22,21 @@ Discord : [ت⃟⃤ Shadow 🙃 | ψ#0817]</p>
 
 </p>
 
+```php
+
+namespace ShadowMikado;
+
+use ShadowMikado\Name;
+
+public function ShadowMikado(User $user) {
+  $name = $user->getName();
+  if($name == "ShadowMikado") {
+    return true;
+  }
+  return false;
+}
+```
+
 <h2 align="center">Tools & Technology</p>
 
 <p align="center"> 
