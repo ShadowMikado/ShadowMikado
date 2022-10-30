@@ -9,14 +9,14 @@
  <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=00C301&style=flat" alt="ShadowMikado" />
 
 
- <h2 align="center"><img src="https://github.com/FilonxTN/FilonxTN/blob/main/Assets/Hi.gif" height="32px">Hello im ShadowMikado !</p>
+ <h2 align="center"><img src="https://github.com/FilonxTN/FilonxTN/blob/main/Assets/Hi.gif" height="32px"> Hello im ShadowMikado !</p>
 
 <h2 align="center">Description</p>
 
 </p>
 
 :computer: Developper PHP & Python</p>
-:mortar_board: PocketMine-MP & Discord Py</p>
+<img src="https://cdn.discordapp.com/emojis/997796404363788338.webp?size=80" height="32px"> PocketMine-MP & Discord Py</p>
 
 <h2 align="center">Social Links</p>
 Discord : [ت⃟⃤ Shadow 🙃 | ψ#0817]
