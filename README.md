@@ -27,7 +27,7 @@ Discord : [ت⃟⃤ Shadow 🙃 | ψ#0817]
 <h2 align="center">Tools & Technology</p>
 
 <p align="center"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/PhpStorm_Icon.png/1200px-PhpStorm_Icon.png" height="32px"> />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/PhpStorm_Icon.png/1200px-PhpStorm_Icon.png" height="32px">
 <img src="https://img.shields.io/badge/-PocketMineMP-blue?style=flat-square&logo=pocketmine"/>
 <img src="https://img.shields.io/badge/-visualstudiocode-blue?style=flat-square&logo=visualstudiocode"/>
 <img src="https://img.shields.io/badge/-discord-blue?style=flat-square&logo=discord"/>
