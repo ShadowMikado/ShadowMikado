@@ -31,7 +31,7 @@ Discord : [ت⃟⃤ Shadow 🙃 | ψ#0817]
 <img src="https://raw.githubusercontent.com/github/explore/8468c94d8852c3dcf5bd5ef8aa4003d1380dcdfa/topics/pmmp/pmmp.png" height="32px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="32px"/>
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" height="32px"/>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="32px"/>
+<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="32px"/>
 
 
 </p>
