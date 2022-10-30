@@ -9,7 +9,7 @@
  <img src="https://komarev.com/ghpvc/?username=skilozz&label=Profile%20views&color=00C301&style=flat" alt="ShadowMikado" />
 
 
- <h2 align="center">Hello im ShadowMikado !</p>
+ <h2 align="center"><img src="https://github.com/FilonxTN/FilonxTN/blob/main/Assets/Hi.gif" height="32px">Hello im ShadowMikado !</p>
 
 <h2 align="center">Description</p>
 
@@ -36,7 +36,7 @@ Discord : [ت⃟⃤ Shadow 🙃 | ψ#0817]
 
 </p>
 
-<h2 align="center">Reach me & Contact <img src="https://github.com/FilonxTN/FilonxTN/blob/main/Assets/Handshake.gif" height="32px"> </p> 
+<h2 align="center">Reach me & Contact<img src="https://github.com/FilonxTN/FilonxTN/blob/main/Assets/Handshake.gif" height="32px"> </p> 
 
 <p align="center">
 shadowmikado-contact@gmail.com
