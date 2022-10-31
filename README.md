@@ -39,7 +39,7 @@ Discord : [ت⃟⃤ Shadow 🙃 | ψ#0817]
 <h2 align="center">Reach me & Contact<img src="https://github.com/FilonxTN/FilonxTN/blob/main/Assets/Handshake.gif" height="32px"> </p> 
 
 <p align="center">
-|shadowmikado-contact@gmail.com](https://127.0.0.1)
+[shadowmikado-contact@gmail.com](https://127.0.0.1)
 </p>
 
 <h2 align="center">
