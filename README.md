@@ -68,4 +68,4 @@ shadowmikado.contact@gmail.com
  <img src="https://activity-graph.herokuapp.com/graph?username=ShadowMikado&theme=redical">
 </p> 
 <hr>
-<p align="center">If you like this page leave a star (⭐)</p>
+<p align="center">If you like this page leave a star (⭐) </p>
