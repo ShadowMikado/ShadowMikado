@@ -40,7 +40,8 @@ Discord : [ت⃟⃤ Shadow 🙃 | ψ#0817]
 
 <p align="center">
 </p>
-[shadowmikado-contact@gmail.com](https://127.0.0.1)
+[*shadowmikado-contact@gmail.com*](https://127.0.0.1)
+
 <h2 align="center">
   My Contribution Graph
 <p align="center">
