@@ -1,6 +1,9 @@
- <h2 align="center"><img src="https://github.com/FilonxTN/FilonxTN/blob/main/Assets/Hi.gif" height="32px"> Hello I'm ShadowMikado !
+ <h2 align="center">👋 Hello I'm ShadowMikado !</h2>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ShadowMikado&data=repositories,stars,followers&theme=darkmode)]()</h2>
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=ShadowMikado&data=repositories,stars,followers&theme=darkmode" alt="GitHub WidgetBox">
+</p>
+
 
  **ShadowMikado**, aged 16, I'm in perpetual progress, always seeking new projects to undertake.
  > Passionate about computer science and programming, I strive to showcase the best of myself in my projects.
