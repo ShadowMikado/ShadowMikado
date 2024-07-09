@@ -5,7 +5,7 @@
 </p>
 
 
- **ShadowMikado**, aged 16, I'm in perpetual progress, always seeking new projects to undertake.
+ **ShadowMikado**, aged 17, I'm in perpetual progress, always seeking new projects to undertake.
  > Passionate about computer science and programming, I strive to showcase the best of myself in my projects.
 
 <h2 align="center">Description</h2>
