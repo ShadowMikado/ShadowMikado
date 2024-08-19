@@ -11,22 +11,18 @@
 <h2 align="center">Description</h2>
 
 <h3 align="center">Student Developer: PHP & Python & Java</h3>
-<h3 text-align="right" align="center">Software: PocketMine-MP & Discord Py & SpigotMC</h3>
+<h3 text-align="right" align="center">Software: PocketMine-MP & Discord Py & PaperMC</h3>
 
 <p align="center"><img alt="snake" src="assets/Snake.svg" /></p>
 
-<div markdown="1" align="right">
+<div markdown="1" align="center">
 
-|   Language I use   |
-|---|
-|   [![My Skills](https://skillicons.dev/icons?i=php,python,java,html,css&perline=3)](https://skillicons.dev)   |
+|   Language I use   |   Others   |
+|---|---|
+|   [![My Skills](https://skillicons.dev/icons?i=php,python,java,html,css,javascript&perline=4)](https://skillicons.dev)   |    [![My Skills](https://skillicons.dev/icons?i=git,docker,github,linux,mysql,idea,phpstorm,pycharm&perline=4)](https://skillicons.dev)    |
 
 
 
-|   Others   |
-|---|
-|   [![My Skills](https://skillicons.dev/icons?i=git,github,linux,mysql,idea,docker&perline=3)](https://skillicons.dev)   |
- 
 </div>
 
 ---
